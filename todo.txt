@@ -1,0 +1,1 @@
+1. confirm bid content should be checked.

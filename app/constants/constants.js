@@ -1,0 +1,5 @@
+export default {
+  ADVANCE_PERCENT: 50,
+  DATE_FORMATE: 'DD MMM YYYY',
+  DATE_TIME_FORMATE: 'DD-MM-YYYY LTS',
+};

@@ -1,0 +1,9 @@
+export default [
+  'PROFILE PIC',
+  'DRIVING LICENSE',
+  'RATION CARD',
+  'ELECTRICITY BILL',
+  'VOTER ID',
+  'PAN CARD',
+  'COMPANY GST CERTIFICATE',
+];
